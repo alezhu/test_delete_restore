@@ -4,8 +4,12 @@ def function1
 
 def function2
 
+def function3
+
 ---
 
 impl function1
 
 impl function2
+
+impl function3
