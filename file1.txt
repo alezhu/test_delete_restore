@@ -1,0 +1,7 @@
+header
+
+def function1
+
+---
+
+impl function1
