@@ -2,6 +2,10 @@ header
 
 def function1
 
+def function2
+
 ---
 
 impl function1
+
+impl function2
