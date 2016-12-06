@@ -2,14 +2,14 @@ header
 
 def function1
 
-def function2
-
 def function3
+
+def function4
 
 ---
 
 impl function1
 
-impl function2
-
 impl function3
+
+impl function4
